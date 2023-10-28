@@ -2,3 +2,4 @@
 ## 深度学习相关
 - VGG
 - GoogLeNet
+- ResNet
