@@ -1,5 +1,10 @@
 # 阅读的文献记录
-## 深度学习相关
+## papers
+
+### deep learning
 - VGG
-- GoogLeNet
-- ResNet
+
+## books
+
+### tools
+- vim实用技巧
